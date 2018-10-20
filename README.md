@@ -1,2 +1,7 @@
-# milestone-1
-the first proyect,
+# Milestone-1
+
+The first proyect, involving
+
+## Tecnologies 
+
+
